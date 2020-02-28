@@ -1,7 +1,7 @@
 # modelo_sir_coronavirus
 Un modelo SIR basico sobre el coronavirus
 
-Por los acontecimientos resientes decidi investigar un poco un modelo sobre propagación del coronavirus. 
+Por los acontecimientos recientes decidi investigar un poco un modelo sobre propagación del coronavirus. 
 
 ## Se planea crear mas modelos hasta llegar a modelos Deep Learning
 
