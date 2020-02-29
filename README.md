@@ -6,8 +6,14 @@ Por los acontecimientos recientes decidi investigar un poco un modelo sobre prop
 ## Se planea crear mas modelos hasta llegar a modelos Deep Learning
 
 
+## **modelo sir**
+
+![Modelo SIR](../SIR_model.png)
+
+
 
 les dejo  unas fuentes donde me pude asesorar mejor
+
 [1°Modelo SIR](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model)
 
 [2°Modelado matemático de enfermedades infecciosas](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease)
