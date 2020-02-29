@@ -8,7 +8,7 @@ Por los acontecimientos recientes decidi investigar un poco un modelo sobre prop
 
 ## **modelo sir**
 
-![Modelo SIR](../SIR_model.png)
+![Modelo SIR](SIR_model.png)
 
 
 
